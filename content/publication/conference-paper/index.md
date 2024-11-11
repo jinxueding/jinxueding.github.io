@@ -85,3 +85,15 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+
+
+@article{ding2021mxene,
+  title={MXene-derived TiC/SiBCN ceramics with excellent electromagnetic absorption and high-temperature resistance},
+  author={Ding, Jinxue and Chen, Fengbo and Chen, Jianxin and Liang, Jin and Kong, Jie},
+  journal={Journal of the American Ceramic Society},
+  volume={104},
+  number={4},
+  pages={1772--1784},
+  year={2021},
+  publisher={Wiley Online Library}
+}
