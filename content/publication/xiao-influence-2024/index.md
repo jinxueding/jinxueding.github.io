@@ -5,7 +5,7 @@ authors:
 - Xingxing Xiao
 - Marc Widenmeyer
 - Wenjie Xie
-- Jinxue Ding
+- admin
 - Moritz Thiem
 - Wei Li
 - Andrei Kovalevsky

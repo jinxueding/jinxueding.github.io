@@ -1,7 +1,7 @@
 ---
 title: Failure behavior of interfacial domain in SiC-matrix based composites
 authors:
-- Jinxue Ding
+- admin
 - Xiaokang Ma
 - Xiaomeng Fan
 - Jimei Xue

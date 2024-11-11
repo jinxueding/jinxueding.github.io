@@ -3,7 +3,7 @@ title: Molten salt synthesized La- substituted CaTiO3 thermoelectric ceramics
 authors:
 - Xingxing Xiao
 - Saad Arif
-- Jinxue Ding
+- admin
 - Marc Widenmeyer
 - Gabriel Constantinescu
 - Andrei Kovalevsky
