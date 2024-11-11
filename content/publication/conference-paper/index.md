@@ -1,40 +1,33 @@
 ---
-title: '3'
+title: 'Achieving low thermal conductivity and high quality factor in sextuple-doped TiS2'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Wei Li
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2024-11=06'
+doi: 'https://doi.org/10.1016/j.actamat.2024.120548'
 
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
 
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *Acta Materialia*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Transition-metal dichalcogenide TiS2 stands out as a sustainable candidate for room- and medium-temperature thermoelectric materials due to its affordability, non-toxicity, eco-friendly nature and use of non-critical elements. However, its light element compositional nature results in a large thermal conductivity, which is the main limitation of the thermoelectric performance of TiS2. Here, we report a multi-element doping strategy by incorporating equivalent (Se, Zr) elements and introducing higher-valence (Nb, Ta) and lower-valence (Y, La) elements in pairs to minimize its lattice thermal conductivity, klat. The findings indicate a nearly 50% decrease in klatacross the entire temperature range, attributed to the presence of strong point-defect scattering after multi-element doping. Additionally, we observed a reduced dependency of klat on temperature in multi-element doped TiS2, as point defects can effectively scatter phonons at room temperature. As a result, the multi-element doped TiS2 attained its highest ZT value of approximately 0.4 at 625 K. Incorporating higher-valence and lower-valence elements in pairs proves to be an effective method for decreasing lattice thermal conductivity without compromising too much of its large Seebeck coefficient.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: The considerable reduction in lattice thermal conductivity is attributed to the significantly strengthened point-defect scattering, a consequence of sextuple-doping. However, despite the reduction achieved through multi-element doping, the lowest lattice thermal conductivity observed in multi-element doped TiS2 remains relatively high when compared to that of intercalated TiS2 with substantial sulfur deficiency. The highest thermoelectric figure of merit, ZT, achieved in our multi-element doped TiS2 is around 0.4 at 625 K, a value that falls within the range observed in many intercalated and doped TiS2 materials. This implies that further endeavors on the multi-element doping approach are necessary to ultimately achieve improvements in the ZT.
 
 tags:
-  - Large Language Models
+  - Thermoelectric materials
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,19 +37,13 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S1359645424008966'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Graphical Abstract'
   focal_point: ''
   preview_only: false
 
