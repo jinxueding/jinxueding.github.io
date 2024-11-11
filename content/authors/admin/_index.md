@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 丁金雪
+title: Jinxue Ding
 
 # Name pronunciation (optional)
 name_pronunciation: 
