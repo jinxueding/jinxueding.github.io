@@ -2,7 +2,7 @@
 title: MXene-derived TiC/SiBCN ceramics with excellent electromagnetic absorption
   and high-temperature resistance
 authors:
-- Jinxue Ding
+- admin
 - Fengbo Chen
 - Jianxin Chen
 - Jin Liang
