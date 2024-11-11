@@ -1,8 +1,8 @@
 ---
-title: Tuning anisotropic thermoelectric properties of TiS2– compounds via intercalating
+title: Tuning anisotropic thermoelectric properties of TiS2–x compounds via intercalating
   iron
 authors:
-- Jinxue Ding
+- admin
 - Chuanmu Tian
 - Wei Li
 - Jonas Spielmann
