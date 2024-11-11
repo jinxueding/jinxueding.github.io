@@ -1,7 +1,7 @@
 ---
 title: Entropy engineering in transition metal sulfides for thermoelectric application
 authors:
-- Jinxue Ding
+- admin
 - Wei Li
 - Moritz Thiem
 - Konstantin P. Skokov
