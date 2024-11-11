@@ -1,5 +1,5 @@
 ---
-title: Phase evolution and oxidation resistance of Si3N4/HfB2/HfBCN1––ceramic nanocomposites
+title: Phase evolution and oxidation resistance of Si3N4/HfB2/HfBxCyN1-x-y––ceramic nanocomposites
   prepared from tailored preceramic polymers
 authors:
 - Wei Li
