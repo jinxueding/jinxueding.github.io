@@ -13,7 +13,7 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2024-11=06'
+date: '2024-11-06'
 doi: 'https://doi.org/10.1016/j.actamat.2024.120548'
 
 
