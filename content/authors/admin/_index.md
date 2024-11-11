@@ -3,7 +3,7 @@
 title: 丁金雪
 
 # Name pronunciation (optional)
-name_pronunciation: Ding Jin Xue
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Jinxue
@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoc
+role: PhD
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: TU Darmstadt
+    url: https://www.mawi.tu-darmstadt.de/mr/mr/employees/team_mr/index.en.jsp
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:jinxueding@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
